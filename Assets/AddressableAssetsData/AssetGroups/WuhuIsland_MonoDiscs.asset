@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WuhuIsland_MonoDiscs
+  m_EditorClassIdentifier: 
+  m_GroupName: WuhuIsland_MonoDiscs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 43c58454bab103d48ac2ee6f3eb65557
+  m_SerializeEntries:
+  - m_GUID: 4310ad8852f03a542967f892c7abc454
+    m_Address: MonoDisc/WS2_title_screen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3307f4e53e8fd408a73cbe4500b6e0
+    m_Address: AudioClip/WS2_title_screen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c71f1176531903748ae728e24f577c88, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47fae4cf47c8ac948b4f9ec02affa2ba, type: 2}
+    - {fileID: 11400000, guid: 08ba203f51e86e34aa43084ed037413c, type: 2}
+    - {fileID: 11400000, guid: f2ea0079246073844977db1dd1be825c, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WuhuIsland_Levels
+  m_EditorClassIdentifier: 
+  m_GroupName: WuhuIsland_Levels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b1231c848fc96e648ae4859716f7e389
+  m_SerializeEntries:
+  - m_GUID: ec595bdc69068b0448f3794172046e52
+    m_Address: Level/Wuhu Island
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c71f1176531903748ae728e24f577c88, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 51dc3813adfe3b943bdb482d6d99374f, type: 2}
+    - {fileID: 11400000, guid: 07b033fa8cce23f48ac34f3040e044eb, type: 2}
+    - {fileID: 11400000, guid: 0c2cb727fbc232c409ec1b8a32ad0e2f, type: 2}
