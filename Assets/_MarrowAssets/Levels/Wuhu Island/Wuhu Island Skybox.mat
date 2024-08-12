@@ -63,7 +63,7 @@ Material:
     - _Details: 0
     - _Emission: 0
     - _EmissionFalloff: 1
-    - _Exposure: 1.1
+    - _Exposure: 0.2
     - _Normals: 0
     - _SSROff: 0
     - _SSRTemporalMul: 1

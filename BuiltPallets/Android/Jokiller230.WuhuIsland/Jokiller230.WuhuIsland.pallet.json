@@ -12,7 +12,7 @@
       "unlockable": false,
       "redacted": false,
       "author": "Jokiller230",
-      "version": "1.0.1",
+      "version": "0.4.1",
       "sdkVersion": "1.1.0",
       "internal": false,
       "crates": [
@@ -30,14 +30,44 @@
       "tags": [],
       "changelogs": [
         {
-          "version": "1.0.0",
+          "version": "0.0.0",
           "title": "Initial release",
           "text": "- add wuhu island level crate"
         },
         {
-          "version": "1.1.0",
+          "version": "0.1.0",
           "title": "Sound and Lighting",
           "text": "- bake lights\n- bake navmesh\n- add main theme mono disc"
+        },
+        {
+          "version": "0.1.1",
+          "title": "Moar models",
+          "text": "- re-baked lights\n- re-baked navmesh\n- updated WS2_common_island prefab with more models\n- add new GradientVertexColour shader"
+        },
+        {
+          "version": "0.1.2",
+          "title": "Lit lighting fr",
+          "text": "- re-baked lights\n- added 2 head and 2 rear lights to WS2_common_car for testing purposes"
+        },
+        {
+          "version": "0.2.0",
+          "title": "Terrain go brrrrr",
+          "text": "- re-baked lights\n- re-baked navmesh for humanoid entities\n- added the main grass and cliff terrain pieces\n- added wedge island terrain"
+        },
+        {
+          "version": "0.3.0",
+          "title": "Water go brrrrrr",
+          "text": "- re-baked lights\n- added WS2_common_sea component\n- testing the litMas shader from atlas_96 on discord"
+        },
+        {
+          "version": "0.4.0",
+          "title": "Upgrades people, upgrades!",
+          "text": "- re-baked lights\n- re-baked navmesh\n- added all missing pieces of WS2_common_island\n- removed litmas shader from atlas_96\n- created simple cartoon water shader"
+        },
+        {
+          "version": "0.4.1",
+          "title": "MORE upgrades people, upgrades!",
+          "text": "- re-baked navmesh\n- removed duplicate sea model causing purple texture\n- added collisions to a few objects"
         }
       ],
       "isa": {
