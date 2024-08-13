@@ -1,0 +1,2 @@
+/BuiltPallets/Android/Jokiller230.WuhuIsland-0.5.0_quest.zip filter=lfs diff=lfs merge=lfs -text
+/BuiltPallets/Android/Jokiller230.WuhuIsland/wuhuisland_levels_scenes_level/wuhuisland.bundle filter=lfs diff=lfs merge=lfs -text

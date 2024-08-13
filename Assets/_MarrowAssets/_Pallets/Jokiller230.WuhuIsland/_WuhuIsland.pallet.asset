@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.4.1
+  _version: 0.5.0
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -93,6 +93,23 @@ MonoBehaviour:
       texture
 
       - added collisions to a few objects'
+  - version: 0.5.0
+    title: Textures, textures and TEXTURES!
+    text: '- re-baked navmesh
+
+      - re-baked lighting
+
+      - re-imported WS2_common_island
+      to remove animation armatures
+
+      - created a ton of materials for the corresponding
+      textures, and applied them to the WS2_common_island model
+
+      - playing
+      around with car lights on WS2_common_island instead of just a gray box
+
+      -
+      created magma texture for volcano'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:

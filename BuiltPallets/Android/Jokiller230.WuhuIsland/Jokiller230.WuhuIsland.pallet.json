@@ -12,7 +12,7 @@
       "unlockable": false,
       "redacted": false,
       "author": "Jokiller230",
-      "version": "0.4.1",
+      "version": "0.5.0",
       "sdkVersion": "1.1.0",
       "internal": false,
       "crates": [
@@ -68,6 +68,11 @@
           "version": "0.4.1",
           "title": "MORE upgrades people, upgrades!",
           "text": "- re-baked navmesh\n- removed duplicate sea model causing purple texture\n- added collisions to a few objects"
+        },
+        {
+          "version": "0.5.0",
+          "title": "Textures, textures and TEXTURES!",
+          "text": "- re-baked navmesh\n- re-baked lighting\n- re-imported WS2_common_island to remove animation armatures\n- created a ton of materials for the corresponding textures, and applied them to the WS2_common_island model\n- playing around with car lights on WS2_common_island instead of just a gray box\n- created magma texture for volcano"
         }
       ],
       "isa": {
