@@ -12,7 +12,7 @@
       "unlockable": false,
       "redacted": false,
       "author": "Jokiller230",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "sdkVersion": "1.1.0",
       "internal": false,
       "crates": [
@@ -73,6 +73,11 @@
           "version": "0.5.0",
           "title": "Textures, textures and TEXTURES!",
           "text": "- re-baked navmesh\n- re-baked lighting\n- re-imported WS2_common_island to remove animation armatures\n- created a ton of materials for the corresponding textures, and applied them to the WS2_common_island model\n- playing around with car lights on WS2_common_island instead of just a gray box\n- created magma texture for volcano"
+        },
+        {
+          "version": "0.5.1",
+          "title": "Textures, enivronment and LIGHTING!",
+          "text": "- re-baked lighting\n- added a few more lights to the town area\n- applied various missing textures\n- modified ApplyVertexColour and ApplyVertexColourTransparent shaders"
         }
       ],
       "isa": {

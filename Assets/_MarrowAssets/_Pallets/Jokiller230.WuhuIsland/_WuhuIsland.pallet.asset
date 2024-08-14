@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.5.0
+  _version: 0.5.1
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -110,6 +110,17 @@ MonoBehaviour:
 
       -
       created magma texture for volcano'
+  - version: 0.5.1
+    title: Textures, enivronment and LIGHTING!
+    text: '- re-baked lighting
+
+      - added a few more lights to the town area
+
+      -
+      applied various missing textures
+
+      - modified ApplyVertexColour and ApplyVertexColourTransparent
+      shaders'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:
