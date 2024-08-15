@@ -77,16 +77,16 @@ Material:
     - _Normals: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RippleDensity: 30
-    - _RippleSlimness: 8
+    - _RippleDensity: 50
+    - _RippleSlimness: 4
     - _RippleSpeed: 0.3
     - _SSROff: 0
     - _SSRTemporalMul: 1
     - _Surface: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.509434, g: 0.15619439, b: 0.21157841, a: 1}
+    - _BaseColor: {r: 0.5754717, g: 0.1981577, b: 0.21984242, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _RippleColor: {r: 0.1872549, g: 0.050980393, b: 0.050980393, a: 0}
+    - _RippleColor: {r: 0.24528301, g: 0.021982905, b: 0.021982905, a: 0}
     - _RippleRadialShear: {r: 2, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

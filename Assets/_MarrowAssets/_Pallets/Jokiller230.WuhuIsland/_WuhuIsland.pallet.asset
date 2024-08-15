@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.5.1
+  _version: 0.5.2
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -121,6 +121,14 @@ MonoBehaviour:
 
       - modified ApplyVertexColour and ApplyVertexColourTransparent
       shaders'
+  - version: 0.5.2
+    title: Real LIGHTING!
+    text: '- re-baked lighting
+
+      - partially fixed town stree light
+
+      -
+      added lighting to inside of volcano'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:

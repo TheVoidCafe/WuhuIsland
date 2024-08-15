@@ -12,7 +12,7 @@
       "unlockable": false,
       "redacted": false,
       "author": "Jokiller230",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "sdkVersion": "1.1.0",
       "internal": false,
       "crates": [
@@ -78,6 +78,11 @@
           "version": "0.5.1",
           "title": "Textures, enivronment and LIGHTING!",
           "text": "- re-baked lighting\n- added a few more lights to the town area\n- applied various missing textures\n- modified ApplyVertexColour and ApplyVertexColourTransparent shaders"
+        },
+        {
+          "version": "0.5.2",
+          "title": "Real LIGHTING!",
+          "text": "- re-baked lighting\n- partially fixed town stree light\n- added lighting to inside of volcano"
         }
       ],
       "isa": {
