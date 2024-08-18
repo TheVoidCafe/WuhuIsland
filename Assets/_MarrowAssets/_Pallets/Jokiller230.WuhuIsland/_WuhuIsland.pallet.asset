@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.5.2
+  _version: 0.7.0
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -129,6 +129,28 @@ MonoBehaviour:
 
       -
       added lighting to inside of volcano'
+  - version: 0.6.0
+    title: REAL ANIMATIONS!
+    text: '- experimenting with animated objects
+
+      - implement WS2_common_airship
+      component'
+  - version: 0.6.1
+    title: REAL ANIMATIONS! 2
+    text: '- blimp animation speed fix
+
+      - add collisions to airship'
+  - version: 0.7.0
+    title: TREES!
+    text: '- add WS2_common_tree 1, 2 and 3 components
+
+      - re-bake lighting
+
+      -
+      add WS2_common_windmill component
+
+      - remove some of the border textures,
+      as they look terrible'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:
