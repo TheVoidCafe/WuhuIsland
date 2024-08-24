@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.7.0
+  _version: 0.7.1
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -151,6 +151,12 @@ MonoBehaviour:
 
       - remove some of the border textures,
       as they look terrible'
+  - version: 0.7.1
+    title: Physics but ANIMATED
+    text: '- add kinematic rigidbody to animated components
+
+      - fix loop on
+      WS2_common_windmill animation'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:
