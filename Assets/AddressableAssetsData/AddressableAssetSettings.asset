@@ -35,7 +35,7 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: Jokiller230.WuhuIsland
   m_RemoteCatalogBuildPath:
-    m_Id: BuiltPallets/Android/Jokiller230.WuhuIsland
+    m_Id: BuiltPallets/StandaloneWindows64/Jokiller230.WuhuIsland
   m_RemoteCatalogLoadPath:
     m_Id: 'PALLET_BARCODE:Jokiller230.WuhuIsland:'
   m_ContentStateBuildPathProfileVariableName: <default settings path>

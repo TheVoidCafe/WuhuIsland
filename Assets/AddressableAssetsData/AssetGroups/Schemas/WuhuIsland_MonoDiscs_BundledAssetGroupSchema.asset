@@ -34,7 +34,7 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 0
   m_BuildPath:
-    m_Id: BuiltPallets/Android/Jokiller230.WuhuIsland
+    m_Id: BuiltPallets/StandaloneWindows64/Jokiller230.WuhuIsland
   m_LoadPath:
     m_Id: 'PALLET_BARCODE:Jokiller230.WuhuIsland:'
   m_BundleMode: 1

@@ -19,7 +19,7 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: Jokiller230
-  _version: 0.7.1
+  _version: 0.7.2
   _sdkVersion: 1.1.0
   _internal: 0
   _crates:
@@ -157,6 +157,13 @@ MonoBehaviour:
 
       - fix loop on
       WS2_common_windmill animation'
+  - version: 0.7.2
+    title: Treetopia
+    text: '- add more trees
+
+      - re-bake lighting
+
+      - re-bake navmesh'
   _crateTitles:
   - Level  Wuhu Island
   _datacardTitles:
